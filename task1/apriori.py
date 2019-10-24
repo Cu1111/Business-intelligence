@@ -1,3 +1,8 @@
+# author: Justin Cui
+# date: 2019/10/23
+# email: 321923502@qq.com
+
+
 from numpy import *
 
 

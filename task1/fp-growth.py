@@ -1,3 +1,8 @@
+# author: Justin Cui
+# date: 2019/10/23
+# email: 321923502@qq.com
+
+
 # 加入数据
 def load_dataset():
     dataSet = [['bread', 'milk', 'vegetable', 'fruit', 'eggs'],
